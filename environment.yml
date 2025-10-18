@@ -1,0 +1,14 @@
+name: ambiente_R
+channels:
+  - defaults
+dependencies:
+  - r-essentials
+  - r-base
+  - r-car
+  - r-corrplot
+  - r-explore
+  - r-psych
+  - r-mlbench
+  - r-readxl
+  - r-openxlsx
+prefix: /home/cnaranjom/miniconda3/envs/ambiente_R
